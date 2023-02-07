@@ -37,6 +37,7 @@ fun LoginScreen() {
 
 @Composable
 fun Greeting(name: String) {
+    //lite ändringar
     Text(text = "Hello $name!")
     Text(text = "Hello $name!")
     Text(text = "Hello $name!")
