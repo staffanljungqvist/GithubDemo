@@ -31,7 +31,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun LoginScreen() {
     Box(Modifier.fillMaxSize()) {
-        Text("LoginSkärm")
+        Text("Hänvisar till stringresurs")
     }
 }
 
